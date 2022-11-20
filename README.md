@@ -1,6 +1,6 @@
 # flutter_dripicons
 
-A new Flutter project.
+Flutter icon package using dripicons. A completely free vector line-icon font by Amit Jakhu
 
 ## Getting Started
 
